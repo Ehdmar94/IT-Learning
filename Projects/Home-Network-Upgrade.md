@@ -1,0 +1,55 @@
+# Home Network Upgrade – Xfinity Gigabit Internet
+
+## Objective
+
+Improve network reliability, wireless performance, and future scalability by replacing an aging Motorola MG8702 modem/router combo with dedicated networking equipment.
+
+## Project Summary
+
+Upgraded a home network by installing a Hitron CODA56 DOCSIS 3.1 cable modem and TP-Link Archer BE550 Pro BE9700 Wi-Fi 7 router. Maintained an existing Ethernet run from the living room to a home office and integrated a network switch to support multiple wired devices.
+
+## Hardware Used
+
+- Hitron CODA56 DOCSIS 3.1 Cable Modem
+- TP-Link Archer BE550 Pro BE9700 Wi-Fi 7 Router
+- Xfinity Gigabit Internet (1.1 Gbps Plan)
+- Ethernet Network Switch
+- Existing Coaxial Cable Connection
+- Existing Ethernet Run Between Rooms
+
+## Implementation
+
+- Removed Motorola MG8702 modem/router combo
+- Verified coaxial cable connection and Xfinity compatibility
+- Installed Hitron CODA56 cable modem
+- Connected modem to TP-Link Archer BE550 Pro router using the 10 Gbps WAN port
+- Connected existing Ethernet run to a LAN port on the router
+- Activated the modem through Xfinity
+- Configured Wi-Fi network settings and security
+- Verified wired and wireless connectivity
+- Reconnected smart home devices and Ring cameras
+
+## Troubleshooting
+
+- Verified coaxial cable connectivity
+- Confirmed correct WAN and LAN port assignments
+- Diagnosed modem activation issues during setup
+- Tested Ethernet connectivity to office network switch
+- Resolved smart home device connectivity after Wi-Fi migration
+- Verified internet access across wired and wireless devices
+
+## Skills Demonstrated
+
+- Network Hardware Installation
+- Router Configuration
+- Modem Provisioning
+- ISP Activation
+- Ethernet Networking
+- Wireless Networking
+- Network Troubleshooting
+- Smart Home Device Integration
+- Technical Documentation
+
+## Outcome
+
+Successfully upgraded the home network infrastructure from an all-in-one modem/router solution to a modern Wi-Fi 7 deployment. Improved reliability, increased future scalability, maintained wired office connectivity, and restored functionality for smart home devices and security cameras.
