@@ -1,69 +1,69 @@
 # Home Network Upgrade – Xfinity Gigabit Internet
 
-## Project Overview
-Upgraded a home network by replacing a Motorola MG8702 modem/router combo with a dedicated modem and router solution to improve performance, reliability, and future scalability.
+## Objective
+
+Improve network reliability, wireless performance, and future scalability by replacing an aging Motorola MG8702 modem/router combo with dedicated networking equipment.
+
+## Project Summary
+
+Upgraded a home network by installing a Hitron CODA56 DOCSIS 3.1 cable modem and TP-Link Archer BE550 Pro BE9700 Wi-Fi 7 router. Maintained an existing Ethernet run from the living room to a home office and integrated a network switch to support multiple wired devices.
 
 ## Hardware Used
-- Modem: Hitron CODA56 DOCSIS 3.1 Cable Modem
-- Router: TP-Link Archer BE550 Pro BE9700 Wi-Fi 7 Router
-- ISP: Xfinity Gigabit Internet (1.1 Gbps Plan)
-- Network Switch: Existing unmanaged Ethernet switch located in home office
 
-## Objectives
-- Improve wireless performance and network reliability
-- Eliminate dependency on Motorola Moto Sync+ management platform
-- Support current Gigabit internet speeds
-- Future-proof home network with Wi-Fi 7 technology
-- Maintain wired connectivity to office and gaming equipment
+- Hitron CODA56 DOCSIS 3.1 Cable Modem
+- TP-Link Archer BE550 Pro BE9700 Wi-Fi 7 Router
+- Xfinity Gigabit Internet (1.1 Gbps Plan)
+- Ethernet Network Switch
+- Existing Coaxial Cable Connection
+- Existing Ethernet Run Between Rooms
+
+## Implementation
+
+- Removed Motorola MG8702 modem/router combo
+- Verified coaxial cable connection and Xfinity compatibility
+- Installed Hitron CODA56 cable modem
+- Connected modem to TP-Link Archer BE550 Pro router using WAN port
+- Connected existing Ethernet run to router LAN port
+- Activated modem through Xfinity
+- Configured Wi-Fi network settings and security
+- Verified wired and wireless connectivity
+- Reconnected smart home devices and Ring cameras
 
 ## Network Topology
 
 Xfinity Coax Connection
-        │
-        ▼
+↓
 Hitron CODA56 Modem
-        │
-        ▼
+↓
 TP-Link Archer BE550 Pro BE9700 Router
-        │
-        ├── Wi-Fi Devices
-        │
-        └── Ethernet Connection
-                │
-                ▼
-          Network Switch
-                │
-        Multiple Wired Devices
+├─ Wi-Fi Devices
+└─ Ethernet Connection
+   ↓
+Network Switch
+   ↓
+Multiple Wired Devices
 
-## Implementation Steps
-1. Verified existing coaxial cable connection and Xfinity compatibility.
-2. Removed Motorola MG8702 modem/router combo.
-3. Installed Hitron CODA56 modem and connected coaxial cable.
-4. Connected modem to TP-Link Archer BE550 Pro using the 10 Gbps WAN port.
-5. Connected existing Ethernet run to a LAN port on the router.
-6. Activated the modem through Xfinity.
-7. Configured Wi-Fi settings and security.
-8. Verified internet connectivity and wired network functionality.
-9. Reconnected smart home devices and Ring cameras to the new network.
+## Troubleshooting
 
-## Troubleshooting Performed
-- Verified coaxial cable connectivity.
-- Confirmed proper WAN and LAN port assignments.
-- Diagnosed Xfinity modem activation issues.
-- Validated Ethernet connectivity to the office switch.
-- Identified offline smart home devices after Wi-Fi migration.
-- Restored connectivity by updating wireless settings and reconnecting devices.
+- Verified coaxial cable connectivity
+- Confirmed correct WAN and LAN port assignments
+- Diagnosed modem activation issues during setup
+- Tested Ethernet connectivity to office network switch
+- Resolved smart home device connectivity after Wi-Fi migration
+- Verified internet access across wired and wireless devices
 
 ## Skills Demonstrated
+
 - Network Hardware Installation
 - Router Configuration
 - Modem Provisioning
-- ISP Activation Procedures
+- ISP Activation
 - Ethernet Networking
+- Wireless Networking
 - Network Troubleshooting
-- Wireless Network Management
-- Smart Home Device Connectivity
+- Smart Home Device Integration
 - Technical Documentation
 
 ## Outcome
-Successfully migrated from an aging Motorola MG8702 modem/router combo to a modern networking solution using the Hitron CODA56 DOCSIS 3.1 Cable Modem and TP-Link Archer BE550 Pro BE9700 Wi-Fi 7 Router. Improved network reliability, increased future scalability, maintained wired office connectivity, and successfully integrated existing smart home devices with the new network infrastructure.
+
+Successfully upgraded the home network infrastructure from an all-in-one modem/router solution to a modern Wi-Fi 7 deployment. Improved reliability, increased future scalability, maintained wired office connectivity, and restored functionality for smart home devices and security cameras.
